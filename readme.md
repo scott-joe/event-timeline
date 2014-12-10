@@ -14,10 +14,11 @@ Anyway, enjoy. Comment or extend as you'd like.
 
 ### Include
 
-bootstrap.min.css
-jquery.min.js
-bootstrap.min.js
-timeline.js
+- bootstrap.min.css
+- jquery.min.js
+- bootstrap.min.js
+- timeline.js
+- timeline.css
 
 ### Markup
 
