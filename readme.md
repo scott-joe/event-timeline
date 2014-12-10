@@ -12,17 +12,22 @@ Anyway, enjoy. Comment or extend as you'd like.
 
 ## Usage
 ### Include
-```<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
-<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="path/to/timeline.js"></script>```
+```html
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css
+
+https://code.jquery.com/jquery-1.11.1.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js
+path/to/timeline.js```
 
 ### Markup
-```<div id="progress-bar-wrapper" class="progress"></div>```
+
+```html
+<div id="progress-bar-wrapper" class="progress"></div>```
 
 ### Script
-```
+
+```javascript
 // The usefulness of this example will almost immediately expire, 
 // so update the dates as necessary
 
@@ -55,3 +60,4 @@ $(document).ready(function(){
 		]
 	});
 });
+```
