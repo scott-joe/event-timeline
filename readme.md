@@ -11,14 +11,13 @@ Right now it's only on pageload and I'm sure there are other things I could impr
 Anyway, enjoy. Comment or extend as you'd like.
 
 ## Usage
+
 ### Include
 
-```html
-https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css
-
-https://code.jquery.com/jquery-1.11.1.min.js
-https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js
-path/to/timeline.js```
+bootstrap.min.css
+jquery.min.js
+bootstrap.min.js
+timeline.js
 
 ### Markup
 
