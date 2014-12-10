@@ -21,12 +21,11 @@ timeline.js
 
 ### Markup
 
-```html
-<div id="progress-bar-wrapper" class="progress"></div>```
+```<div id="progress-bar-wrapper" class="progress"></div>```
 
 ### Script
 
-```javascript
+```
 // The usefulness of this example will almost immediately expire, 
 // so update the dates as necessary
 
