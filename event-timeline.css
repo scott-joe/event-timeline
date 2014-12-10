@@ -1,0 +1,27 @@
+div.progress-bar-expired {
+	background-color: gray;
+}
+
+#ttl-burn {
+	width: 20%;
+	position: absolute;
+	min-height: 100%;
+	top: 0px;
+	left: -1px;
+	background-color: gray;
+	opacity: 0.7;
+}
+
+#progress-bar-wrapper {
+	height: 25px;
+}
+
+.progress-bar {
+	position: relative;
+}
+
+.progress-bar span {
+	position: inherit;
+	top: 2px;
+	font-size: 1.1em;
+}
